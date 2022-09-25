@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_manage"]=self["webpackChunkvue_manage"]||[]).push([[761],{4761:function(e,n,u){u.r(n),u.d(n,{default:function(){return f}});var a=function(){var e=this,n=e._self._c;return n("div",[e._v("页面2")])},t=[],r={name:"pageTwo",data(){return{}}},l=r,s=u(1001),c=(0,s.Z)(l,a,t,!1,null,null,null),f=c.exports}}]);
+//# sourceMappingURL=761.b25d347f.js.map
